@@ -1,0 +1,38 @@
+#m{
+    background-color: blueviolet;
+    font-family:cursive;
+}
+
+body{
+    text-align: center;
+    background-color:beige;
+}
+
+#library{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+#great hall{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+#Qpitch{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+
+h1{
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+}
